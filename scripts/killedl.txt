@@ -1,0 +1,1 @@
+{"fill":"red","shape":"dot","text":"killed","source":{"id":"badfed4e.78d8f","type":"exec","name":"Script Lumière"}}
